@@ -12,7 +12,7 @@ public class CrudJavaBasico {
         System.out.println("Hola mundo");
         System.out.println("cambios desde consola");
         System.out.println("cambios desde netbeans");
-        
+        System.out.println("vamos a probar otro cambio");
     }
     
 }
